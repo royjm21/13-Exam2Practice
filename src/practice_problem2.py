@@ -217,7 +217,7 @@ def practice_problem2b(sequence):
     for k in range(len(sequence)):
         string = sequence[k]
         str += string[0]
-    return string
+    return str
 # ----------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
 # ----------------------------------------------------------------------
